@@ -11,18 +11,6 @@ Aproveito diariamente o tempo de deslocamento (casa-trabalho e trabalho-casa) no
 
 ---
 
-### 📊 Minhas Estatísticas
-<!-- Onde vai o código de estatísticas: LOGO APÓS O SOBRE MIM -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📈 Minha Atividade no GitHub
-[![Kenny-Dev-Stroud's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenny-Dev-Stroud&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **Mobile & Scripting:**
