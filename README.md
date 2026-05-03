@@ -7,9 +7,19 @@
 ### 👨‍💻 Sobre mim
 Trabalho atualmente no setor de **Almoxarifado** em uma empresa de logística, onde desenvolvo organização e foco em processos. No campo acadêmico, estou no primeiro semestre de **Análise e Desenvolvimento de Sistemas na Estácio**, mas já possuo bagagem técnica anterior, tendo cursado **Desenvolvimento de Sistemas na Etec**.
 
-Aproveito diariamente o tempo de deslocamento (casa-trabalho e trabalho-casa) no trem da **CPTM** para transformar meu smartphone em uma estação de estudos, aprimorando meus conhecimentos em programação durante o trajeto. 🚆💻
+Aproveito diariamente o tempo de deslocamento (casa-trabalho e trabalho-casa) no trem da CPTM para transformar meu smartphone em uma verdadeira estação de estudos, utilizando cada minuto para evoluir em programação. 
+🚆💻
 
 ---
+
+<p align="left">
+<a href="https://github.com/Kenny-Dev-Stroud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenny-Dev-Stroud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Kenny-Dev-Stroud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&langs_count=7&theme=dracula" />
+</a>
+</p>
 
 ---
 
