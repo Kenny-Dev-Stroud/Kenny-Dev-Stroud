@@ -61,7 +61,7 @@ Transformo meu tempo no trem da **CPTM** em uma verdadeira estação de estudos,
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joel-valdemir-356248234">
+  <a href="https://www.linkedin.com/in/joel-valdemir-da-silva-356248234/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:jvds19922013@gmail.com">
