@@ -9,7 +9,7 @@
 ![Tetris](https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Dev-Stroud&theme=tokyonight)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris-final.gif" alt="Meus Commits em Tetris">
+  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris-final.gif" alt="Tetris Animation">
 </p>
 
 ---
