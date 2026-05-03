@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris.gif" alt="Tetris Animation">
+  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-fortetris.gif" alt="Meus Commits em Tetris">
 </p>
 
 ---
