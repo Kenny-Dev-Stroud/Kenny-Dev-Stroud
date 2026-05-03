@@ -1,10 +1,9 @@
-name: Gerar Animação Tetris
+name: Generate Snake
 
 on:
   schedule:
-    # Roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *" 
-  workflow_dispatch: # Permite que você rode manualmente clicando no botão
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,14 +12,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Tetris
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Kenny-Dev-Stroud
-          # O segredo está em definir o modo tetris e usar um nome de arquivo novo
           outputs: |
-            dist/github-tetris-final.gif?snake_mode=tetris&color_snake=#fe53bb&color_dots=#222222,#50fa7b,#8be9fd,#ffb86c,#ff79c6
-            dist/github-snake-dark.svg?palette=github-dark&snake_mode=tetris
+            dist/github-snake.gif
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
