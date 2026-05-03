@@ -11,7 +11,7 @@ Aproveito diariamente o tempo de deslocamento (casa-trabalho e trabalho-casa) no
 
 ---
 
-![Estatísticas do Kenny](https://github-readme-stats.vercel.app/api?username=Kenny-Dev-Stroud&show_icons=true&theme=dracula)
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
