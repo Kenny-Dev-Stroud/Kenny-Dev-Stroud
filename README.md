@@ -6,6 +6,10 @@
 
 ---
 
+![Snake Animation](https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-snake.gif)
+
+---
+
 ## 🚀 Desenvolvedor em formação
 
 <p align="center">
