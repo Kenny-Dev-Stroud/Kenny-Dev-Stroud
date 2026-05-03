@@ -6,7 +6,9 @@
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-snake.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-snake.gif?v=1" alt="Snake Animation">
+</p>
 
 ---
 
