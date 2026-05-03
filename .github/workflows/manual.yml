@@ -19,7 +19,7 @@ jobs:
           # Ativa o modo Tetris explicitamente
           snake_mode: tetris
           outputs: |
-            dist/github-snake.gif?color_snake=#fe53bb&color_dots=#222222,#50fa7b,#8be9fd,#ffb86c,#ff79c6
+            dist/github-tetris.gif?color_snake=#fe53bb&color_dots=#222222,#50fa7b,#8be9fd,#ffb86c,#ff79c6
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
