@@ -1,7 +1,7 @@
 # Bem vindo!! 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" width="100%">
+  <img src="https://github.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/blob/main/commit.gif?raw=true" width="100%">
 </p>
 
 ### 👨‍💻 Sobre mim
@@ -12,12 +12,12 @@ Aproveito diariamente o tempo de deslocamento (casa-trabalho e trabalho-casa) no
 
 ---
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Kenny-Dev-Stroud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenny-Dev-Stroud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenny-Dev-Stroud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Kenny-Dev-Stroud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
 </a>
 </p>
 
