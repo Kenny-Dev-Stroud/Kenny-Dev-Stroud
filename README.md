@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-snake.gif" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris.gif" alt="Tetris Animation">
 </p>
 
 ---
