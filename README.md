@@ -1,7 +1,7 @@
 # 👋 Bem-vindo!!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/main/commit.gif" width="100%">
+  <img src="https://github.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/blob/main/commit_1.gif?raw=true" width="100%">
 </p>
 
 ---
