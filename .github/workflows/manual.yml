@@ -16,9 +16,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Kenny-Dev-Stroud
+          # O segredo está nestas duas linhas abaixo:
           outputs: |
-            dist/github-snake.gif
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?snake_mode=tetris&color_snake=#fe53bb
+            dist/github-snake-dark.svg?palette=github-dark&snake_mode=tetris
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
