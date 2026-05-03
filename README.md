@@ -5,8 +5,9 @@
 </p>
 
 ---
-
+<p allgn="center">
 ![Tetris](https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Dev-Stroud&theme=tokyonight)
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris-final.gif" alt="Tetris Animation">
