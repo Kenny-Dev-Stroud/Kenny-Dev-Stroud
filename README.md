@@ -15,7 +15,7 @@
 ## 🚀 Desenvolvedor em formação
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenny-Dev-Stroud/Kenny-Dev-Stroud/output/github-tetris.gif" alt="Tetris Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F97316&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Disciplina+diária+💻🔥" />
 </p>
 
 ---
