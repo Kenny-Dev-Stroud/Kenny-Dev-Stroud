@@ -5,8 +5,9 @@
 </p>
 
 ---
-<p allgn="center">
-![Tetris](https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Dev-Stroud&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Dev-Stroud&theme=tokyonight" alt="Streak Stats">
 </p>
 
 <p align="center">
@@ -37,15 +38,7 @@ Transformo meu tempo no trem da **CPTM** em uma verdadeira estação de estudos,
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kenny-Dev-Stroud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
-## 🔥 Sequência de commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kenny-Dev-Stroud&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kenny-Dev-Stroud&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </p>
 
 ---
