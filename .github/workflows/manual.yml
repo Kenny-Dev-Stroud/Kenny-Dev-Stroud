@@ -16,6 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Kenny-Dev-Stroud
+          # --- ESSA É A MUDANÇA ---
+          snake_mode: tetris
+          # -------------------------
           outputs: |
             dist/github-snake.gif
             dist/github-snake-dark.svg?palette=github-dark
